@@ -27,7 +27,3 @@
   Change `IP_VPS` to your VPS IP and Generate New Wallet
 
 ----------------------------------------------------------
-## Join Telegram Channel 
-For Updates, Questions and other Guides Join the Community :
-
-[Skuy Vibes Cloud](https://t.me/skuycloud) or [Airdrop Family IDN](https://t.me/AirdropFamilyIDN)
