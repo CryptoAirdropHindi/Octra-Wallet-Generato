@@ -6,7 +6,7 @@
   ```
 ## 2.Clone Repository
   ```
-  git clone https://github.com/octra-labs/wallet-gen.git && cd wallet-gen
+  git clone https://github.com/CryptoAirdropHindi/wallet-gen.git && cd wallet-gen
   ```
 ## 3.Install Bun
   ```
